@@ -1,0 +1,24 @@
+{
+  "name": "ai-content-kit",
+  "version": "0.1.0",
+  "description": "LLM 內容產生器 — 文章（TOC/FAQ/schema/閱讀時間）、銷售頁文案、DALL-E 封面圖。provider 可換（OpenAI 相容，含 DeepSeek/AI Gateway）、零依賴、繁中優化 prompt。",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "content-generation",
+    "deepseek",
+    "openai",
+    "dall-e",
+    "seo",
+    "zero-dependency",
+    "文章生成",
+    "銷售頁",
+    "封面圖"
+  ],
+  "author": "Jeffrey0117",
+  "license": "MIT"
+}
