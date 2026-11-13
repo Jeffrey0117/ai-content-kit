@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" width="96" height="96" alt="ai-content-kit logo">
+</p>
+
 # ai-content-kit ✍️
 
 **LLM 內容產生器。** 一個檔搞定三種內容：
